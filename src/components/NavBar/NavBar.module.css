@@ -1,9 +1,10 @@
 .CtnNavbar {
     background-color: #bbb;
     height: 75px;
-}
+    background-color: rgb(246, 54, 54);
+}   
 
 .logoAtividade {
     text-decoration: none;
-    color: #333;
+    color: white;
 }
